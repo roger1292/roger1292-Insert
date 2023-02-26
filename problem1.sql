@@ -1,0 +1,1 @@
+INSERT INTO SONG (title, artist) VALUES ('title', 'artist');
